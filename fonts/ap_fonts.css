@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Animal Planet Sans';
+    src: local('Animal Planet Sans Medium'), local('AnimalPlanetSans-Medium'),
+        url('AnimalPlanetSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Animal Planet Sans Extra';
+    src: local('Animal Planet Sans Extra B'), local('AnimalPlanetSans-ExtraBold'),
+        url('AnimalPlanetSans-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Animal Planet Sans';
+    src: local('Animal Planet Sans Heavy'), local('AnimalPlanetSans-Heavy'),
+        url('AnimalPlanetSans-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
